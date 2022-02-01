@@ -9,6 +9,7 @@ Un blog increible para el curso profesional de Git y Github de Platzi.
 * La aplicación y explicación de las buenas practicas.
 * Trucos de Git utiles en la vida laboral.
 * Incluye ejemplos en windows, Linux y Mac.
+* Disponible para todas las edades.
 * Creado por Juan Pérez.
 
 Como una recomendacion: **Este readme.md**. Fue diseñado para ejemplo y para recomendarte el **Curso profesional de Git y Github de platzi**. Esta buenisimo y aprenderas mucho **BYE**.
